@@ -1,0 +1,2 @@
+Este proyecto tiene como objetivo practicar los
+comandos de Git y la gestion de ramas con Gitflow.
