@@ -1,2 +1,5 @@
 Este proyecto es para practicar los
 comandos de Git y la gestion de ramas
+
+
+Lista la version v1.0.0 
