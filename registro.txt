@@ -1,0 +1,7 @@
+Formulario de registro UCJC
+
+
+
+Nombre:
+Correo electronico:
+Contrasena:
